@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up
 Jupyter Notebook VS Code GitHub
 
 ## Overview of the Analysis
